@@ -1,7 +1,7 @@
 on:
   workflow_call: 
     inputs: 
-      variaval-demo:
+      variavel-demo:
         required: true
         type: string
 
